@@ -1,0 +1,4 @@
+comment = 'Scala Postgres QQ R ?'
+default_version = '0.0.1'
+relocatable = true
+module_pathname = '$libdir/spqr'
